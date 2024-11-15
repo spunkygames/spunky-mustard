@@ -1,6 +1,6 @@
 # Spunky Mustard
 
-Spunky Mustard is a free online music game that lets you create unique beats and melodies with a zesty, mustard-themed twist. Experiment with different sound combinations, unlock quirky characters, and share your musical creations. Play Spunky Mustard Now: [https://spunky.games/spunky-mustard](https://spunky.games/spunky-mustard)
+Spunky Mustard is a free online music game that lets you create unique beats and melodies with a zesty, mustard-themed twist. Experiment with different sound combinations, unlock quirky characters, and share your musical creations. Play Spunky Mustard Now: [spunky-mustard](https://spunky.games/spunky-mustard)
 
 ---
 
@@ -21,7 +21,7 @@ Spunky Mustard is a browser-based music game developed by Spunky Games, offering
 
 ## How to Play Spunky Mustard
 
-1. **Launch the Game:** Visit [https://spunky.games/spunky-mustard](https://spunky.games/spunky-mustard) to start playing in your browser.
+1. **Launch the Game:** Visit [spunky-mustard](https://spunky.games/spunky-mustard) to start playing in your browser.
 2. **Choose Your Characters:**  Drag and drop the unique mustard-themed characters onto the stage. Each character represents a different sound or musical loop.
 3. **Mix and Match Sounds:**  Experiment with combining various characters to create your own beats and melodies.
 4. **Unlock New Characters:**  As you play, you might unlock new characters and sounds, expanding your musical palette.
@@ -57,7 +57,7 @@ Spunky Mustard is a browser-based music game developed by Spunky Games, offering
 5. **Can I save my mixes?** Saving options may vary (local saves or online accounts, depending on the platform). Check in-game for specifics.
 6. **Does Spunky Mustard have levels or stages?** Progression might involve unlocking new characters or features.  See the game for details.
 7. **What inspired Spunky Mustard?**  It's a unique take on music creation games, with a distinct mustard theme.  If you enjoy this style, you might also like [Sprunki Retake](https://sprunkiretake.org/).
-8. **Where can I learn more about Spunky Games?** Visit [https://spunky.games](https://spunky.games).  Another game by Spunky Games you might like is [ESprunki Game](https://esprunki.com/).
+8. **Where can I learn more about Spunky Games?** Visit [spunky games](https://spunky.games).  Another game by Spunky Games you might like is [ESprunki Game](https://esprunki.com/).
 9. **Is there a mobile app version of Spunky Mustard?** While a dedicated mobile app might not be available, it's designed to be playable in most mobile browsers.
 10. **How can I contact the developers?**  Look for contact information on the game's website or related Spunky Games resources.
 
@@ -65,4 +65,4 @@ Spunky Mustard is a browser-based music game developed by Spunky Games, offering
 
 ---
 
-Get ready to create some zesty beats! Play Spunky Mustard now: [https://spunky.games/spunky-mustard](https://spunky.games/spunky-mustard)
+Get ready to create some zesty beats! Play Spunky Mustard now: [spunky-mustard](https://spunky.games/spunky-mustard)
